@@ -2,4 +2,4 @@
 - Buat Program Arduino.
 - Buat Library Arduino.
 - Semua program kita akan berada di GitHub.
-- Mari Belajar dengan lebih rajin.
+- Belajar Matlab.
