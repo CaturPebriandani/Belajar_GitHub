@@ -1,0 +1,3 @@
+- Kita Akan Belajar GitHub sampe mahir.
+- Buat Program Arduino.
+- Buat Library Arduino.
