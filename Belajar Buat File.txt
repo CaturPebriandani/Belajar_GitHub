@@ -4,3 +4,4 @@
 - Semua program kita akan berada di GitHub.
 - Belajar Matlab.
 - Coba tambah data untuk uji coba branch error
+- Belajar fork
